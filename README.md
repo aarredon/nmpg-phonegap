@@ -1,4 +1,4 @@
-nmpg-phonegap
+New Mexico Programming Group - PhoneGap
 =============
 
 This is a simple Andriod camera application for New Mexico Programming Group (NMPG)
