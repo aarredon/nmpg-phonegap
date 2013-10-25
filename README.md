@@ -1,6 +1,6 @@
 # New Mexico Programming Group - PhoneGap
 
-This is a simple Andriod camera application for New Mexico Programming Group (NMPG)
+This is a simple Android camera application for New Mexico Programming Group (NMPG)
 using PhoneGap. This code based on the 2.9.0 cordova. 
 
 ## Mileage will vary
